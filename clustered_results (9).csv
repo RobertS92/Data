@@ -1,0 +1,188 @@
+sentence,intent,cluster_id
+Make a Payment,Pay pay bill bitch,0
+Make a Payment,Fuck billing give me some fucking body,0
+Make a Payment,My fucking bill pay my bill pay my bill before you pay my bill,0
+Make a Payment,Pay bill don't let him,0
+Make a Payment,Pay my bill stupid voice off,0
+Make a Payment,Pay my bill debit bitch,0
+Make a Payment,Pay my bill bloodsuckers,0
+Make a Payment,Pay his bill and get my fucking money back from this bitch,0
+Make a Payment,Stupid bitch pay bill,0
+Make a Payment,To pay my bill damn,1
+Make a Payment,To pay the fucking bill,1
+Make a Payment,To pay my fucking bill bitch,1
+Make a Payment,Trying to pay my fucking bills,1
+Make a Payment,To pay the goddamn bill,1
+Make a Payment,To pay my fucking bill,1
+Make a Payment,To pay the bill and update the information for Marcus Caswell,1
+Make a Payment,Trying to pay my fucking bill you dumb bitch,1
+Make a Payment,Pay your fucking bills pay your fucking bill spectrum goddamn fucking else,2
+Make a Payment,Yes pay a bill for fucking,2
+Make a Payment,Yes pay the fucking bill,2
+Make a Payment,How about paying for a sorry ass bill,2
+Make a Payment,No fucking idea pay the bill,2
+Make a Payment,K pay fucking bill,2
+Make a Payment,Billing Holmesville pay the fucking bill,2
+Make a Payment,Can I just pay pay my bill pay my bill pay my fucking bill,2
+Make a Payment,I'd like to pay ten dollars towards my bill,3
+Make a Payment,I'd like to pay my bill seven five dollars,3
+Make a Payment,I would like to pay forty seven fifty on my bill,3
+Make a Payment,I'd like to pay my bill the seven seven three four please,3
+Make a Payment,I'd like to pay my bill at seven oh seven five Julian,3
+Make a Payment,I would like to pay my bill when the hold on it is twenty nine fifty seven,3
+Make a Payment,Need to pay my bill and sixty four dollars,3
+Make a Payment,I would like to pay my phone bill for next month twenty dollars,4
+Make a Payment,I would like to pay my phone bill eight dollars and ninety nine cents,4
+Make a Payment,I would like to pay fifty nine ninety nine on my mobile bill,4
+Make a Payment,I'd like to pay on the bill the fourteen ninety nine,4
+Make a Payment,I'd like to pay this one bill seventeen ninety nine for my phone,4
+Make a Payment,No Internet and pay my bill,5
+Make a Payment,No Internet pay my bill whatever,5
+Increased Bill,I'm Bak calling about my bill why is my Internet not on,5
+Increased Bill,Reduce bill by fifteen dollars,6
+Increased Bill,Thirty dollar bill reduction,6
+Increased Bill,Thirty dollar reduction in bill,6
+Make a Payment,The bill and turn it,6
+Increased Bill,Want to know about saving thirty percent thirty dollars each month on my bill,6
+Make a Payment,Pay my bill give me the remote,7
+Make a Payment,Pay bill give me a remote,7
+Make a Payment,Pay my bill for shut up no,8
+Make a Payment,Technical support and I'd like to pay my bill,8
+Make a Payment,Pay my bill in an outage,8
+Make a Payment,Pay my bill I want service,8
+Make a Payment,No service no get a bill,8
+StatementBalance,Inquiring about prices for service and bill,8
+Transfer,Service WePay for bill we have no service,8
+Transfer,Pay bill and give me the customer care,8
+Transfer,Question bill question service,8
+Make a Payment,How about paid my monthly bill yet,9
+Make a Payment,No pay my cell phone bill,9
+Make a Payment,Pay some of my phone bill,9
+Make a Payment,Pay my friend's cell phone bill,9
+Make a Payment,Pay my daughter's phone bill,9
+Make a Payment,Pay my granddaughter's phone bill,9
+Make a Payment,Pay my phone bill on eighteenth,9
+Make a Payment,Pay my cell or my cable bill,9
+Make a Payment,Pay my Internet bill my phone bill and my watch,9
+Make a Payment,Fucking god pay my mobile bill,9
+Make a Payment,Pay my phone bill bitch,9
+Make a Payment,Pay a bill so you fucking stop calling me every goddamn day,9
+Increased Bill,My bill plus losing all these channels,9
+Increased Bill,Wondering why I'm billed for home phone,9
+Make a Payment,No chat pay my bill,10
+Make a Payment,No house pay my phone bill,10
+Make a Payment,Pay bill by data,10
+Make a Payment,Paying over the phone pay my bill,10
+Make a Payment,Pay my bill make a ticket,10
+Make a Payment,Pay my bills same time,10
+Make a Payment,Pay my bill or phone,10
+Make a Payment,Pay by phone paying my bill,10
+Make a Payment,Pay my bill and my phones disconnected,10
+Make a Payment,Pay my bill by by phone,10
+Make a Payment,Pay my bill by phone,10
+Make a Payment,Pay my current bill by phone,10
+Make a Payment,Pay my bill over phone,10
+Make a Payment,Pay my bill without it being cut off,10
+Make a Payment,Pay bill with the whole card because I can't see the hold,10
+Transfer,Like to speak with an operator to pay cable bill,10
+Transfer,A charge on my bill my discover bill a charge on my discover bill,10
+Transfer,Technical grocery store pay my bill,10
+Increased Bill,Cleveland bill last payment just give me a call of a cash,10
+Make a Payment,Pay my spectrum bill pay my mobile,11
+Make a Payment,Pay my mobile my spectrum bill my cable bill,11
+Make a Payment,Pay my spectrum bill my mobile account bill,11
+Make a Payment,Pay my bill pay my spectrum Internet down,11
+Make a Payment,Pay my bill my spectrum bill and my mobile bill,11
+Make a Payment,Pay my spectrum bill my spectrum mobile bill,11
+Increased Bill,Why is my spectrum bill gone from one hundred and five dollars to one hundred and eleven dollars,11
+Increased Bill,My my spectrum bill for my phone why am I still paying forty five dollars a month for,11
+Make a Payment,Pay my bill give me the pencil,12
+Make a Payment,Pay my bill add a line,12
+Make a Payment,Add a new line pay my bill,12
+Make a Payment,Pay bill restore services,13
+Make a Payment,Pay bill and restore services,13
+Transfer,Getting an online account restore services pay bill,13
+Transfer,Speak to a rep concerning billing of Disney,14
+Transfer,My auto bill on my autopay I want to discuss that with someone please,15
+Increased Bill,My last bill tells me that I need some updated equipment,15
+Increased Bill,Couple of things number one why was my bill not paid because I have autopay,15
+Transfer,Past bill Texas,16
+Transfer,Speaker bill,16
+Transfer,Appointment at billings Montana office,17
+StatementBalance,What is the grace period for your bill due nine thirty twenty three,18
+Transfer,The twenty four ninety nine on my bill this month and August the twentieth,18
+Transfer,Setting up paying bill on the fourth Wednesday of the month twenty seventh,18
+Transfer,Security code and my bill security code on my bill on my bill,18
+Transfer,A discount on my bill a discount on my bill a discount on my bill,18
+Increased Bill,Did you get that bill for one hundred and twenty two dollars,18
+Increased Bill,Does the bill for one hundred sixty nine dollars and ninety eight cents cover more than one month,18
+Increased Bill,Why did the bill change from fourteen ninety nine to nineteen ninety nine,18
+Increased Bill,My phone bill went from fourteen ninety nine to nineteen ninety nine why,18
+Increased Bill,If I go to automatic pay does my bill go back down to seventy nine ninety nine,18
+Transfer,Discrepancy with services and billing,19
+Transfer,Getting service billing service,19
+Transfer,Upgrade my gosh help with my billing,19
+Transfer,Billing bill dispute the first just need to shit service,19
+Transfer,Payment for my services billing,19
+Transfer,Payment center I can pay my bill,19
+Transfer,To my billing and remove service,19
+Transfer,Service home service on my billing,19
+How much is due,What's the total due for my service bill this month?,19
+Increased Bill,I would like to discuss with an operator about potential of what is going on with my billing contract,19
+Transfer,Some expo bill customer offer,20
+Transfer,Reducing my bill with customer solution team,20
+Transfer,Lowering my bill speak to customer retention,20
+Transfer,Questions on my bill customer retention,20
+Transfer,My bill is too high retention,20
+Transfer,My bill is too high customer retention team,20
+Transfer,My bill is too high retention department,20
+Transfer,Retention services please my bills are way too high,20
+Balance Inquiry,I should be clear,21
+Transfer,Following up my ACB application billing department,22
+What is my previous statement amount,What did my previous billing cycle come to?,22
+Increased Bill,Wondering when the billing cycle ends,22
+Increased Bill,My billing statement why did the prices go up because I was guaranteed two years at the same price,22
+Increased Bill,Why is my phone my next bill for eighteen,23
+Transfer,Surcharge on my bill surcharge on my bill,23
+Increased Bill,Why was I charged twenty eight dollars on my bill for eight four,23
+Increased Bill,What is the penalty for paying my bill one day late,23
+Increased Bill,Why do I have all the forty dollar charges on my bill,23
+Increased Bill,Why you taking twenty five dollars out of my account my bill is paid,23
+Increased Bill,Why am I getting a fourteen dollar bill on service I disconnected multiple months ago,23
+Increased Bill,Why am I paying ten dollars on my bill for ESPN,24
+Transfer,Operator's assistance about getting a better cable bill deal,24
+Increased Bill,About my cable bill why is it two hundred and sixty two dollars,24
+Increased Bill,What is the twenty three dollars and fifty cent one outlet charge for on my cable bill,24
+Increased Bill,Why do I have thirty dollars and thirty one cents online billing,24
+Increased Bill,Why was the modem not working like to pay my bill is two hundred something dollars,24
+Make a Payment,Damn to lower my bill,25
+Increased Bill,My bill is a little too high I need to work on lowering my bill,25
+Increased Bill,I need to lower my bill I'm just getting new equipment,25
+Increased Bill,My bill is too high I'm trying to find out different packages,25
+Increased Bill,My bill is too high I need to go back to basic,25
+Increased Bill,My bill is too high I need to change plans,25
+Increased Bill,Yes ma'am I'm calling about my bill why my bill is so high,25
+Increased Bill,I'm trying to get a new promotions my bill is too high,26
+Increased Bill,My bill too high I'm looking for a new promotion,26
+Increased Bill,I need a new promo my bill is too high,26
+Make a Payment,I need to pay the bill and disconnect the service please,27
+Increased Bill,I want to rearrange my service because my bill is getting too high,27
+Increased Bill,My bill is too high I need to get rid of some of my services,27
+Increased Bill,My bill is too high I'm gonna cut my services,27
+Increased Bill,My bill is too high I'm gonna have to disconnect fencing,27
+Increased Bill,My bill is too expensive and I need to disconnect,27
+Increased Bill,My bill is getting too high I wanna disconnect my service,27
+Increased Bill,My bill is too high I am considering disconnecting,27
+Increased Bill,Why is my bill so high if I speak to a three one five,28
+Transfer,My bill and why I was shut off,28
+Increased Bill,To pay my bill and ask why it went up five or six dollars,28
+Increased Bill,To pay my bill and find out why it's thirty dollars,28
+Increased Bill,To pay my bill and question why it went up in for six dollars and two cents,28
+Increased Bill,You billed me seven hundred and fifty dollars on September nineteenth why,29
+Increased Bill,What do I have one hundred and seven dollar bill,29
+Increased Bill,The bill is forty four dollars and ninety eight cents why,29
+Increased Bill,Yes did you see how much water bill is seventy dollars,29
+Increased Bill,Oh my bill from nine seven to ten six is two hundred and nine dollars why is that,29
+Increased Bill,Why am I being billed thirty nine ninety nine instead of twenty nine ninety nine,29
+Increased Bill,Where is the six hundred dollar credit that supposed to be on my bill,29
+Increased Bill,How can three dollars to my bill,29
